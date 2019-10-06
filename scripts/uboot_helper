@@ -43,6 +43,7 @@ devices = {
       'sdcard' : { 'dtb' : 'meson-gxl-s905x-p212.dts', 'config' : 'p212_defconfig' },
       'khadas-vim' : { 'dtb' : 'meson-gxl-s905x-khadas-vim.dtb', 'config' : 'khadas-vim_defconfig' },
       'khadas-vim2' : { 'dtb' : 'meson-gxm-khadas-vim2.dtb', 'config' : 'khadas-vim_defconfig' },
+      'lefrite' : { 'dtb' : 'meson-gxl-s805x-libretech-ac.dtb', 'config' : 'libretech-ac_defconfig' },
       'lepotato' : { 'dtb' : 'meson-gxl-s905x-libretech-cc.dtb', 'config' : 'libretech-cc_defconfig' },
       'nanopi-k2' : { 'dtb' : 'meson-gxbb-nanopi-k2.dtb', 'config' : 'nanopi-k2_defconfig' },
       'odroid-c2' : { 'dtb' : 'meson-gxbb-odroidc2.dtb', 'config' : 'odroid-c2_defconfig' },
